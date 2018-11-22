@@ -1,0 +1,9 @@
+-- UI design --
+
+Welcome
+
+List items to buy: numbered items
+
+Option to buy: type item number
+
+To quit: type 'q'
