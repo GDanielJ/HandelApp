@@ -10,7 +10,7 @@ namespace HandelU
     {
         static void Main(string[] args)
         {
-            // For test: dictionary with items. -- Ersätt lämpligen med class. Lagra värden fysiskt och hämta upp och visa i UI istället
+            // For test: dictionary with items. -- Ersätt lämpligen med class. Lagra värden fysiskt och hämta upp och visa i UI istället??
             Dictionary<int, string> dItems = new Dictionary<int, string>();
             dItems.Add(1, "Shoes");
             dItems.Add(2, "Pants");
@@ -21,10 +21,10 @@ namespace HandelU
             // Welcome menu
             Console.WriteLine("****** Welcome to the Item store! ******");
 
-            // Instructions -- This could be a metod called by typing "help"
-            Console.WriteLine("\n- To list available items, press \"i\"");
-            Console.WriteLine("- To buy, write the number of the item you want");
-            Console.WriteLine("- To exit the store, press \"q\"\n");
+            // Instructions -- Could be changed to use a metod called by typing "help"
+            Console.WriteLine("\n- To list available items, enter \"i\"");
+            Console.WriteLine("- To buy, write the number of the item you want and press enter");
+            Console.WriteLine("- To exit the store, enter \"q\"\n");
 
             // Promt user for input
             while (true)

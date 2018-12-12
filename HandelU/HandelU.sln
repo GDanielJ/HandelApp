@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandelU", "HandelU\HandelU.csproj", "{AD41262A-5B4A-4825-8EEB-419F947E1C3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandelBL", "HandelBL\HandelBL.csproj", "{81CD101E-B5B0-4704-A059-32BA041CA985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD41262A-5B4A-4825-8EEB-419F947E1C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD41262A-5B4A-4825-8EEB-419F947E1C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD41262A-5B4A-4825-8EEB-419F947E1C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CD101E-B5B0-4704-A059-32BA041CA985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CD101E-B5B0-4704-A059-32BA041CA985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CD101E-B5B0-4704-A059-32BA041CA985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CD101E-B5B0-4704-A059-32BA041CA985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
